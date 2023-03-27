@@ -13,8 +13,8 @@ As I embark on the next phase of my career, I am eager to collaborate with a tea
 
 ##### Programming Langauges:
 
-[<img src="https://img.shields.io/badge/HMTL5-red?style=for-the-badge&logo=html5&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/HMTL-red?style=for-the-badge&logo=html5&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/JavaScript-020b6e?style=for-the-badge&logo=javascript&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black"/>]()
