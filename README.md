@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98139053/228036310-5096bb18-e9ea-41ce-8c4e-747c01945e86.png" alt="Banner">
+  <img src="https://user-images.githubusercontent.com/98139053/228036310-5096bb18-e9ea-41ce-8c4e-747c01945e86.png" alt="Banner" height="200">
 </p>
-<!-- [![banner_img](https://user-images.githubusercontent.com/98139053/228035068-5563fc97-ca5b-43b6-845d-4207aac542a7.png)](https://github.com/asime204)
- -->
+
 ### Hi there 👋, I'm Aziel!
 
 #### About Me:
