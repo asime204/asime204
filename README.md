@@ -1,3 +1,5 @@
+![](banner_img.png)
+
 ### Hi there 👋, I'm Aziel!
 
 #### About Me:
