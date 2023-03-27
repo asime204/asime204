@@ -1,4 +1,4 @@
-![](banner_img.png)
+[![banner_img](https://user-images.githubusercontent.com/98139053/228035068-5563fc97-ca5b-43b6-845d-4207aac542a7.png)](https://github.com/asime204)
 
 ### Hi there 👋, I'm Aziel!
 
