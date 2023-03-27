@@ -22,7 +22,7 @@ As I embark on the next phase of my career, I am eager to collaborate with a tea
 ##### Packages:
 
 [<img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=javascript&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Flask-25631c?style=for-the-badge&logo=flask&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Flask-25631c?style=for-the-badge&logo=python&logoColor=white"/>]()
 
 ##### Tools: 
 
