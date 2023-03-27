@@ -28,7 +28,8 @@ As I embark on the next phase of my career, I am eager to collaborate with a tea
 
 [<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=vscode&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
+
 
 #### Repositories Pinned:
 - <a href="https://github.com/asime204/beacon_react">Capstone Project: React Budget Trach=ker Application</a>
