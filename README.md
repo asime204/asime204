@@ -30,7 +30,7 @@ As I embark on the next phase of my career, I am eager to collaborate with a tea
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/Postman-purple?style=for-the-badge&logo=Postman&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/Jupyter-yellow?style=for-the-badge&logo=Jupyter&logoColor=black"/>]()
+[<img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=white"/>]()
 
 
 #### Repositories Pinned:
