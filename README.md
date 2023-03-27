@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url("https://user-images.githubusercontent.com/98139053/228036310-5096bb18-e9ea-41ce-8c4e-747c01945e86.png");
+    background-image: "https://user-images.githubusercontent.com/98139053/228036310-5096bb18-e9ea-41ce-8c4e-747c01945e86.png";
     background-repeat: no-repeat;
     background-size: cover;
   }
