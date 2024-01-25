@@ -34,8 +34,6 @@ As I embark on the next phase of my career, I am eager to collaborate with a tea
 
 
 #### Repositories Pinned:
-- <a href="https://github.com/asime204/beacon_react">Capstone Project: React Budget Tracker Application</a>
-- <a href="https://github.com/asime204/beacon_flask">Capstone Backend: Flask Budget Tracker Application</a>
 - <a href="https://github.com/asime204/griot_theater">Theatre Landing Page</a>
 - <a href="https://github.com/asime204/crm_g3">Group CRM Application</a>
 - <a href="https://github.com/asime204/meanmugs">Flask E-Commerce Shop</a>
